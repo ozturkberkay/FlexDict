@@ -1,0 +1,13 @@
+*.egg
+*.egg-info
+*.log
+*.pyc
+.cache
+.coverage
+.eggs
+.tox
+dist
+build
+.vscode
+.pytest_cache
+docs/build/html/*

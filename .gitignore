@@ -10,4 +10,5 @@ dist
 build
 .vscode
 .pytest_cache
+coverage.xml
 docs/build/html/*

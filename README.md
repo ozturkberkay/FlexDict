@@ -1,6 +1,6 @@
 ![FlexDict Logo](docs/source/_static/logo.png)
 # FlexDict
-![Travis (.org)](https://img.shields.io/travis/ozturkberkay/FlexDict?style=flat-square) ![Codacy coverage](https://img.shields.io/codacy/coverage/66f007ce4acf4076802667c726e89753?style=flat-square) ![Codacy grade](https://img.shields.io/codacy/grade/66f007ce4acf4076802667c726e89753?style=flat-square) ![GitHub repo size](https://img.shields.io/github/repo-size/ozturkberkay/FlexDict?style=flat-square) ![PyPI](https://img.shields.io/pypi/v/flexdict?style=flat-square) ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/flexdict?style=flat-square) [![security: bandit](https://img.shields.io/badge/security-bandit-yellow.svg?style=flat-square)](https://github.com/PyCQA/bandit)
+![Travis (.org)](https://img.shields.io/travis/ozturkberkay/FlexDict?style=flat-square) ![Codacy grade](https://img.shields.io/codacy/grade/66f007ce4acf4076802667c726e89753?style=flat-square) ![GitHub repo size](https://img.shields.io/github/repo-size/ozturkberkay/FlexDict?style=flat-square) ![PyPI](https://img.shields.io/pypi/v/flexdict?style=flat-square) ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/flexdict?style=flat-square) [![security: bandit](https://img.shields.io/badge/security-bandit-yellow.svg?style=flat-square)](https://github.com/PyCQA/bandit)
 
 
 > Elegantly nested Python dictionaries.

@@ -45,7 +45,7 @@ f.set(['a', 'b'], 2, overwrite=False)
 f.set(['a', 'c'], 2, overwrite=False)
 ```
 
-This prevents you to overwrite existing values:
+This prevents you from overwriting existing values:
 
 ```console
 {'a': {'b': 1, 'c': 2}}
